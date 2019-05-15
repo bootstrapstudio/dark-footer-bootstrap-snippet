@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Responsive footer snippet** made with Bootstrap 4. It has a beautiful dark theme with great-looking text and background colors. The three-column layout offers enough space for all of your website's links. Features social media icons from [Ionicons](https://ionicons.com/) with some additional styling. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/footer-dark)
+**Responsive footer snippet** made with Bootstrap 4. It has a beautiful dark theme with great-looking text and background colors. The three-column layout offers enough space for all of your website's links. Features social media icons from [Ionicons](https://ionicons.com/) with some additional styling. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Dark Footer](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/footer-dark) 
+[![Dark Footer](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
